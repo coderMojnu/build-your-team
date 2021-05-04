@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Shakib Al Hasan",
+    "role": "Batting Allrounder",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg",
+    "basePrice": 5000,
+    "highScore": 217
+  },
+    {
+    "id": 2,
+    "name": "Tamim Iqbal",
+    "role": "Batsman",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170899/tamim-iqbal.jpg",
+    "basePrice": 5000,
+    "highScore": 206
+  },
+  {
+    "id": 3,
+    "name": "Mushfiqur Rahim",
+    "role": "WK-Batsman",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170916/mushfiqur-rahim.jpg",
+    "basePrice": 5000,
+    "highScore": 219
+  },
+  {
+    "id": 4,
+    "name": "Mustafizur Rahman",
+    "role": "Bowler",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170925/mustafizur-rahman.jpg",
+    "basePrice": 4000,
+    "highScore": 16
+  },
+  {
+    "id": 5,
+    "name": "Mashrafe Mortaza",
+    "role": "Bowler",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170920/mashrafe-mortaza.jpg",
+    "basePrice": 5000,
+    "highScore": 79
+  },
+  {
+    "id": 6,
+    "name": "Mehidy Hasan",
+    "role": "Bowling Allrounder",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c148289/mehidy-hasan.jpg",
+    "basePrice": 4000,
+    "highScore": 103
+  },
+  {
+    "id": 7,
+    "name": "Mohammad Saifuddin",
+    "role": "Bowling Allrounder",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170907/mohammad-saifuddin.jpg",
+    "basePrice": 4000,
+    "highScore": 51
+  },
+  {
+    "id": 8,
+    "name": "Mohammad Mithun",
+    "role": "WK-Batsman",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170918/mohammad-mithun.jpg",
+    "basePrice": 4000,
+    "highScore": 67
+  },
+  {
+    "id": 9,
+    "name": "Mahmudullah",
+    "role": "Batting Allrounder",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg",
+    "basePrice": 5000,
+    "highScore": 146
+  },
+  {
+    "id": 10,
+    "name": "Soumya Sarkar",
+    "role": "Batsman",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170900/soumya-sarkar.jpg",
+    "basePrice": 4000,
+    "highScore": 149
+  },
+  {
+    "id": 11,
+    "name": "Liton Das",
+    "role": "Batsman",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170914/liton-das.jpg",
+    "basePrice": 4500,
+    "highScore": 76
+  },
+  {
+    "id": 12,
+    "name": "Rubel Hossain",
+    "role": "Bowler",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170914/liton-das.jpg",
+    "basePrice": 4500,
+    "highScore": 51
+  },
+  {
+    "id": 13,
+    "name": "Ziaur Rahman",
+    "role": "Batting Allrounder",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170914/liton-das.jpg",
+    "basePrice": 3500,
+    "highScore": 76
+  },
+  {
+    "id": 14,
+    "name": "Mosaddek Hossain",
+    "role": "Batting Allrounder",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170914/liton-das.jpg",
+    "basePrice": 4000,
+    "highScore": 76
+  },
+  {
+    "id": 15,
+    "name": "Nasir Hossain",
+    "role": "Batting Allrounder",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170914/liton-das.jpg",
+    "basePrice": 3000,
+    "highScore": 76
+  },
+  {
+    "id": 16,
+    "name": "Boom Boom",
+    "role": "Batting",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170914/liton-das.jpg",
+    "basePrice": 10000,
+    "highScore": 269
+  }
+]

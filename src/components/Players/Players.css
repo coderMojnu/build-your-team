@@ -1,0 +1,9 @@
+.players-container {
+    display: flex;
+}
+.unsold-player {
+    width: 70%;
+    border-right: 1px solid lightgrey;
+    margin-right: 10px;
+    margin-left: 25px;
+}
